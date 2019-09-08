@@ -11,3 +11,6 @@ Ruby Programming PROJECT: OOP Project 1: Tic Tac Toe
 * [Creating a Tic Tac Toe Game with Ruby](https://codequizzes.wordpress.com/2013/10/25/creating-a-tic-tac-toe-game-with-ruby/)
 
 * [build a two-player CLI version of Tic Tac Toe by defining a set of methods to encapsulate the game logic.](https://learn.co/tracks/bootcamp-prep-v2/ruby-fundamentals/tic-tac-toe/tictactoe-rb)
+
+
+Live version [js](https://anna-myzukina.github.io/Tic-Tac-Toe/.)
